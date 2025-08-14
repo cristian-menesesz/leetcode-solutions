@@ -104,10 +104,10 @@ csc problem_name.cs
 
 | Difficulty | Python | TypeScript | C# | Total |
 |------------|--------|------------|----|----- |
-| Easy       | 3      | 3          | 3  | 9     |
+| Easy       | 4      | 4          | 4  | 12     |
 | Medium     | 5      | 5          | 5  | 15     |
 | Hard       | 1      | 1          | 1  | 3     |
-| **Total**  | **9**  | **9**      | **9** | **27** |
+| **Total**  | **10**  | **10**      | **10** | **30** |
 
 This repository exists as a personal learning tool. Solutions may be inspired by or adapted from various online resources, discussions, and educational content. The goal is understanding and growth in algorithmic problem-solving skills.
 
